@@ -1,0 +1,3 @@
+tags:
+  render:
+    skip: "Screen renders, run with --update-goldens --run-skipped"
